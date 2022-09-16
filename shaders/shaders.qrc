@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>triangle.vert</file>
+        <file>triangle.frag</file>
+    </qresource>
+</RCC>
